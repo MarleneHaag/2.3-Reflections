@@ -1,0 +1,5 @@
+print("This is Marlene Haag's GitHub repository"
+print("I'll be honest, I didn't expect to like GitHub all that much", end="")
+print("becuase it is not as directly applicable to my job as the other tools.", end="")
+print("However, I was pleasantly surprised. GitHub is very easy to use, and I can see how it")
+print("could be very beneficial!")
